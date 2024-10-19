@@ -25,7 +25,3 @@ I'm a student coding in Java. Here, you can find my lab works and some public pr
 
 ## 💡 Projects
 In the near future...
-
-## 📊 GitHub Stats
-![Creative6ear's GitHub stats](https://github-readme-stats.vercel.app/api?username=creative6ear&show_icons=true&theme=dark&border_radius=10) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=creative6ear&layout=compact&theme=dark&border_radius=10)
