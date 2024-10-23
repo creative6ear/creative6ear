@@ -2,7 +2,7 @@
 I'm a student coding in Java. Here, you can find my lab works and some public projects that I've worked on.
 ##
 * 🌱 I’m currently learning Java, Databases, Spring Framework
-* 🌐 Languages: English, Ukrainian, Polish
+* 🌐 Languages: English, Ukrainian
 * 💬 If you have any questions, don't hesitate to ask!
 * 📬 How to reach me: DM ✉️ creative6ear@gmail.com
 
