@@ -21,7 +21,6 @@ I'm a student coding in Java. Here, you can find my lab works and some public pr
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
 <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" /></a>
 <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
-<a href="https://trello.com/" title="Trello"><img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" width="48" height="48" /></a>
 
 ## 💡 Projects
 In the near future...
